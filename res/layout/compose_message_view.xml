@@ -62,7 +62,7 @@
             android:orientation="horizontal">
 
             <com.android.messaging.ui.PlainTextEditText
-                android:background="@drawable/subject_editor_bubble"
+                android:background="@drawable/compose_msg"
                 android:id="@+id/compose_subject_text"
                 style="@style/ConversationComposeSubjectText"
                 android:hint="@string/compose_message_view_subject_hint_text"
@@ -121,7 +121,8 @@
                         android:layout_width="0dp"
                         android:layout_weight="1"
                         android:layout_gravity="center"
-                        android:background="@drawable/msg_bubble_input"
+                        android:layout_marginRight="8dp"                        
+                        android:background="@drawable/compose_msg"
                         android:hint="@string/compose_message_view_hint_text"
                         android:imeOptions="actionSend|flagNoEnterAction|flagNoExtractUi" />
 
