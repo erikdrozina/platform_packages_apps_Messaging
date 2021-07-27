@@ -154,7 +154,6 @@
     </style>
 
     <style name="ConversationComposeSubjectText" parent="ConversationComposeSendText">
-        <item name="android:paddingLeft">18dp</item>
         <item name="android:layout_marginLeft">@dimen/compose_message_subject_cancel_left_margin</item>
     </style>
 
