@@ -48,7 +48,7 @@
     <color name="compose_hint_text_color">#ffffff</color>
 
     <color name="message_title_text">#9acd32</color>
-    <color name="message_download_failed_status_text">#000000</color>
+    <color name="message_download_failed_status_text">#F05A24</color>
     <color name="message_info_text">#82A8E7</color>
     <color name="message_info_text_incoming_download_failed">#6a6a6a</color>
     <color name="message_download_failed_timestamp_text">#007fce</color>
