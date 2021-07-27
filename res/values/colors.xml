@@ -36,6 +36,8 @@
     <color name="conversation_list_details">#8A000000</color>
     <color name="conversation_list_background">#fff</color>
 
+    <color name="swipe_background">#bacec6</color>
+
     <color name="conversation_compose_divider_start">#44000000</color>
 
     <color name="message_text">#82A8E7</color>
