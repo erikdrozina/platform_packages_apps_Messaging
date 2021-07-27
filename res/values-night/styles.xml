@@ -156,7 +156,6 @@
     <style name="ConversationComposeSubjectText" parent="ConversationComposeSendText">
         <item name="android:paddingLeft">18dp</item>
         <item name="android:layout_marginLeft">@dimen/compose_message_subject_cancel_left_margin</item>
-        <item name="android:textColor">@color/compose_send_text_color</item>
     </style>
 
     <style name="ContactListItem">
@@ -483,13 +482,13 @@
     <style name="SettingsListItem">
         <item name="android:textSize">@dimen/settings_list_text_size</item>
         <item name="android:textColor">@color/settings_list_text_primary</item>
-        <item name="android:background">@null</item>
+        <item name="android:background">#000000</item>
     </style>
 
     <style name="SettingsListItemDetail">
         <item name="android:textSize">@dimen/settings_list_detail_text_size</item>
         <item name="android:textColor">@color/settings_list_text_secondary</item>
-        <item name="android:background">@null</item>
+        <item name="android:background">#000000</item>
     </style>
 
     <style name="GroupMmsSettingItem">

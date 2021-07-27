@@ -14,9 +14,12 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 -->
-<ListView
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@android:id/list"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@color/global_background" />
+<resources>
+    <!-- DB version -->
+    <string name="database_version" translatable="false">2</string>
+
+    <!-- Version for shared preferences. This is used for handling prefs migration when old pref
+         keys are moved or renamed. You don't need to bump up the version number if you are just
+         adding/removing preferences -->
+    <string name="pref_version" translatable="false">1</string>
+</resources>
