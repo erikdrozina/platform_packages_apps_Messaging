@@ -293,7 +293,7 @@
     </style>
 
     <style name="ConversationListItemViewConversationNameStyle" parent="ConversationListItemViewTextStyle">
-        <item name="android:textSize">24sp</item>
+        <item name="android:textSize">22sp</item>
         <item name="android:textColor">@color/conversation_list_name</item>
         <item name="android:textStyle">bold</item>
     </style>
