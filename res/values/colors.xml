@@ -15,7 +15,7 @@
     limitations under the License.
 -->
 <resources>
-    <color name="primary_color">#2A475F</color>
+    <color name="primary_color">#4285F4</color>
     <color name="permission_check_activity_background">@color/primary_color</color>
     <color name="global_background">#ffffff</color>
 

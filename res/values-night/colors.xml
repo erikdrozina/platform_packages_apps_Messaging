@@ -15,7 +15,7 @@
     limitations under the License.
 -->
 <resources>
-    <color name="primary_color">#2A475F</color>
+    <color name="primary_color">#4285F4</color>
     <color name="permission_check_activity_background">@color/primary_color</color>
     <color name="global_background">#000000</color>
 
@@ -141,7 +141,7 @@
     <color name="notification_warning_color">#ff0000</color>
     <color name="notification_subject_color">#99aaaaaa</color>
 
-    <color name="participant_list_text_primary">#d6d6d6</color>
+    <color name="participant_list_text_primary">#4d4d4d</color>
     <color name="people_and_options_header_text">#ffffff</color>
     <color name="people_and_options_list_divider">#cccccc</color>
 
@@ -171,8 +171,8 @@
     <color name="button_bar_cancel_button_text_color">#4d4d4d</color>
 
     <color name="settings_list_text_primary">#ffffff</color>
-    <color name="settings_list_text_secondary">#d6d6d6</color>
-    <color name="group_mms_setting_text_color">#d6d6d6</color>
+    <color name="settings_list_text_secondary">#6d6d6d</color>
+    <color name="group_mms_setting_text_color">#333333</color>
     <color name="settings_item_title_text_primary">#ffffff</color>
 
     <color name="contact_picker_button_text_color">@color/primary_color</color>
